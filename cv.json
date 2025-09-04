@@ -1,0 +1,132 @@
+{
+  "name": "Kavishka Withanage",
+  "contact": {
+    "email": "dilshankavishka888@gmail.com",
+    "phone": "+94 718996524",
+    "address": "254/c, Tharunasewa mw, Mahalandha, Moronthuduwa, 12560 Kalutara",
+    "linkedin": "https://linkedin.com/in/kavishka-withanage",
+    "github": "https://github.com/dilshankavishka"
+  },
+  "profile": "Aspiring full-stack developer passionate about building impactful digital solutions. I thrive in dynamic environments that value collaboration and innovation. Seeking opportunities to apply my skills, learn from industry professionals, and contribute to forward-thinking projects.",
+  "education": [
+    {
+      "degree": "Bachelor of Information Technology (BIT)",
+      "institution": "University of Colombo School of Computing",
+      "duration": "Aug 2021 - Present"
+    },
+    {
+      "degree": "iCET Certified Developer (iCD)",
+      "institution": "Institute of Computer Engineering Technology",
+      "duration": "Feb 2024 - Dec 2024"
+    },
+    {
+      "degree": "Royal College Panadura",
+      "duration": "Jan 2011 - Dec 2019",
+      "notes": "Advanced Level - B1 C1 S2 | Ordinary Level - A4 B3 C2 S1"
+    }
+  ],
+  "employment": [
+    {
+      "title": "Software Engineer Intern",
+      "company": "SimpliFy Labs (LK)",
+      "duration": "Feb 2025 - Jul 2025",
+      "responsibilities": [
+        "Collaboratively developed a fitness tracking mobile application from concept to implementation",
+        "Participated in requirement gathering sessions with the client",
+        "Created and maintained Software Requirements Specification (SRS)",
+        "Designed prototypes and UI flows using Figma",
+        "Contributed to React Native development of core features",
+        "Participated in stand-ups, code reviews, and agile iterations",
+        "Ensured coordination between design, development, and testing"
+      ],
+      "techStack": ["React Native", "Spring Boot", "Postman", "GitHub", "Figma"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Easy Vehicle Rental",
+      "description": "A web app for listing and renting vehicles, streamlining the process for owners and customers.",
+      "contributions": [
+        "Developed frontend (Angular) and backend (Spring Boot)",
+        "Implemented vehicle listing, authentication, and rental management",
+        "Built and tested REST APIs with Postman"
+      ],
+      "techStack": ["Java", "JavaScript", "Angular", "Spring Boot", "Postman", "JUnit"],
+      "repository": "https://github.com/dilshankavishka/Vehicle-Rental-Platform"
+    },
+    {
+      "name": "Personal Budget Tracker",
+      "description": "Budget app with income/expense tracking and Chart.js insights.",
+      "techStack": ["Angular", "Spring Boot", "Chart.js", "Java", "JavaScript"],
+      "repositories": [
+        "https://github.com/dilshankavishka/Personal-Budget-Tracker-Front-End",
+        "https://github.com/dilshankavishka/Personal-Budget-Tracker-Backend"
+      ]
+    },
+    {
+      "name": "Clothing Store",
+      "description": "POS system with product and inventory management.",
+      "techStack": ["JavaFX", "SceneBuilder"],
+      "repository": "https://github.com/dilshankavishka/Clothing-Store"
+    },
+    {
+      "name": "Hospital Management System",
+      "description": "Secure healthcare app to manage digital prescriptions.",
+      "contributions": [
+        "Led full-stack development with Angular & Spring Boot",
+        "Designed and integrated REST APIs",
+        "Collaborated using Figma and Git version control",
+        "Contributed to system documentation"
+      ],
+      "techStack": ["Spring Boot", "Angular", "JavaScript", "Git", "Postman", "Figma"],
+      "repositories": [
+        "https://github.com/iCET-110/Hospital-Management-Frontend",
+        "https://github.com/iCET-110/Team-03-Back-End"
+      ]
+    }
+  ],
+  "skills": {
+    "programmingLanguages": ["Java", "JavaScript", "TypeScript", "HTML", "CSS", "SQL"],
+    "frameworks": [
+      "Spring Boot",
+      "Angular CLI",
+      "React Native",
+      "Axios",
+      "Redux",
+      "Microservices",
+      "REST APIs",
+      "JavaFX",
+      "JPA / Hibernate",
+      "Lombok",
+      "NodeJS",
+      "Bootstrap",
+      "JUnit"
+    ],
+    "dbms": ["MySQL"],
+    "tools": ["Figma", "Postman", "Maven", "GitHub", "Clickup", "MySQL Workbench"],
+    "softSkills": [
+      "Attention to detail",
+      "Teamwork",
+      "Time management",
+      "Adaptability",
+      "Problem-solving",
+      "Critical Thinking"
+    ],
+    "languages": ["English", "Sinhala"]
+  },
+  "references": [
+    {
+      "name": "Tharindu Rukshan",
+      "title": "Lead Software Engineer, Technical Lead",
+      "company": "IFS R&D International (Pvt) Ltd",
+      "phone": "+94 716404343",
+      "email": "tharindu.rukshan@ifs.com"
+    },
+    {
+      "name": "Dr. Niroth Samarawickrama",
+      "title": "Lecturer/Founder",
+      "company": "Institute of Computer Engineering Technology (ICET), Panadura",
+      "phone": "+94 717640600"
+    }
+  ]
+}
